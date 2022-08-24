@@ -1,0 +1,15 @@
+C:\Users\rezab\source\repos\SortingLinkedList_Ascending\SortingLinkedList_Ascending\bin\Debug\net6.0\SortingLinkedList_Ascending.exe
+C:\Users\rezab\source\repos\SortingLinkedList_Ascending\SortingLinkedList_Ascending\bin\Debug\net6.0\SortingLinkedList_Ascending.deps.json
+C:\Users\rezab\source\repos\SortingLinkedList_Ascending\SortingLinkedList_Ascending\bin\Debug\net6.0\SortingLinkedList_Ascending.runtimeconfig.json
+C:\Users\rezab\source\repos\SortingLinkedList_Ascending\SortingLinkedList_Ascending\bin\Debug\net6.0\SortingLinkedList_Ascending.dll
+C:\Users\rezab\source\repos\SortingLinkedList_Ascending\SortingLinkedList_Ascending\bin\Debug\net6.0\SortingLinkedList_Ascending.pdb
+C:\Users\rezab\source\repos\SortingLinkedList_Ascending\SortingLinkedList_Ascending\obj\Debug\net6.0\SortingLinkedList_Ascending.csproj.AssemblyReference.cache
+C:\Users\rezab\source\repos\SortingLinkedList_Ascending\SortingLinkedList_Ascending\obj\Debug\net6.0\SortingLinkedList_Ascending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rezab\source\repos\SortingLinkedList_Ascending\SortingLinkedList_Ascending\obj\Debug\net6.0\SortingLinkedList_Ascending.AssemblyInfoInputs.cache
+C:\Users\rezab\source\repos\SortingLinkedList_Ascending\SortingLinkedList_Ascending\obj\Debug\net6.0\SortingLinkedList_Ascending.AssemblyInfo.cs
+C:\Users\rezab\source\repos\SortingLinkedList_Ascending\SortingLinkedList_Ascending\obj\Debug\net6.0\SortingLinkedList_Ascending.csproj.CoreCompileInputs.cache
+C:\Users\rezab\source\repos\SortingLinkedList_Ascending\SortingLinkedList_Ascending\obj\Debug\net6.0\SortingLinkedList_Ascending.dll
+C:\Users\rezab\source\repos\SortingLinkedList_Ascending\SortingLinkedList_Ascending\obj\Debug\net6.0\refint\SortingLinkedList_Ascending.dll
+C:\Users\rezab\source\repos\SortingLinkedList_Ascending\SortingLinkedList_Ascending\obj\Debug\net6.0\SortingLinkedList_Ascending.pdb
+C:\Users\rezab\source\repos\SortingLinkedList_Ascending\SortingLinkedList_Ascending\obj\Debug\net6.0\SortingLinkedList_Ascending.genruntimeconfig.cache
+C:\Users\rezab\source\repos\SortingLinkedList_Ascending\SortingLinkedList_Ascending\obj\Debug\net6.0\ref\SortingLinkedList_Ascending.dll
